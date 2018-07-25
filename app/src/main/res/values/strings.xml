@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AndroidListViewExpandableListView</string>
+
+    <string-array name="weekday">
+        <item>星期日</item>
+        <item>星期一</item>
+        <item>星期二</item>
+        <item>星期三</item>
+        <item>星期四</item>
+        <item>星期五</item>
+        <item>星期六</item>
+    </string-array>
+
+    <string name="input_text">請輸入文字</string>
+    <string name="btn_add_auto_complete_text">加入自動完成文字</string>
+    <string name="btn_clear_auto_complete_text">清除自動完成文字</string>
+
+    <string name="seek_bar_progress">SeekBar 的 Progress 值：</string>
+    <string name="rating_bar_value">RatingBar 的 Rating 值：</string>
+    <string name="rating_bar_progress">RatingBar 的 Progress 值：</string>
+
+    <string name="app_name_datetime">DatePicker 和 TimePicker 對話盒</string>
+    <string name="time_picker_dialog">TimePickerDialog</string>
+    <string name="date_picker_dialog">DatePickerDialog</string>
+</resources>
